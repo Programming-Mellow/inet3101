@@ -1,4 +1,4 @@
-#INET 3101 Lab 1
+# INET 3101 Lab 1
 ## Created by Wendy Vang
 
 - Program Description: User is provided with a menu in which they can enter various descriptions about parts through a command-line menu. They may also be able to view various statistics about the database and make modifications to the database as well. Once the user is finished working with the command-line menu, they may exit the menu and their modifications will be saved upon exiting the menu.
